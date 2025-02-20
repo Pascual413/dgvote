@@ -9,11 +9,30 @@
         height: 100vh;
     }
 	
+    .volunteer-container{
+        background-image:url("https://www.travelandleisure.com/thmb/wqI-GqeAjnOBrZNfXJgVBGtu-5I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/TAL-header-aerial-bronx-ny-BRONX0923-4d756b785df3444580042390aff98021.jpg");
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
     a{
       text-decoration: none;
       color: inherit;
     }
 	
+    .left-side {
+        float: left;
+        width: 25%;
+        padding: 1%;
+      }
+
+      .right-side {
+        float: right;
+        width: 25%;
+        padding: 1%;
+      }
+
     #content-container{
         padding: 0%;
 		background-image:url("https://www.travelandleisure.com/thmb/wqI-GqeAjnOBrZNfXJgVBGtu-5I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/TAL-header-aerial-bronx-ny-BRONX0923-4d756b785df3444580042390aff98021.jpg");
