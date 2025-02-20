@@ -40,6 +40,10 @@
 		background-repeat: no-repeat;
     }
   
+    .text-equity{
+        color: #CD6D7D;
+    }
+
     .equity-button{
       border-radius: 25px;
       background-color: #CD6D7D;
