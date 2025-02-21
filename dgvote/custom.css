@@ -235,5 +235,11 @@
     @media only screen and (max-width: 600px) {
       #vote-dg{
       font-size: 5vh;
-      }      
+      }    
+      
+      .right-side {
+        float: none;
+        width: 100%;
+      }
+      
     }
