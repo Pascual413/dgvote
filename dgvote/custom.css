@@ -57,6 +57,12 @@
       background-color: rgb(25, 30, 72)
     }
 
+    #nav{
+      position: sticky;
+      top: 0;
+      z-index: 100;
+    }
+
     .nav-link{
       border-radius: 5px;
     }
