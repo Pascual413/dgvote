@@ -8,9 +8,27 @@
         padding:0%;
         height: 100vh;
     }
+
+    #start-form{
+        background-image: url("photos/background1.jpg");
+        color: white;
+        text-shadow: 3px 3px 3px black;
+    }
+
+    .bg-equality{
+        background-color: #1358a2;
+    }
+
+    #card-pad{
+        margin: 10px;
+    }
+
+    .margin-top-10{
+        margin-top: 10px;
+    }
 	
     .volunteer-container{
-        background-image:url("https://www.travelandleisure.com/thmb/wqI-GqeAjnOBrZNfXJgVBGtu-5I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/TAL-header-aerial-bronx-ny-BRONX0923-4d756b785df3444580042390aff98021.jpg");
+        background-image:url("photos/background1.jpg");
         background-attachment: fixed;
         background-repeat: no-repeat;
         background-size: cover;
@@ -35,7 +53,7 @@
 
     #content-container{
         padding: 0%;
-		background-image:url("https://www.travelandleisure.com/thmb/wqI-GqeAjnOBrZNfXJgVBGtu-5I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/TAL-header-aerial-bronx-ny-BRONX0923-4d756b785df3444580042390aff98021.jpg");
+		background-image:url("photos/background2.jpg");
 		background-size: cover;
 		background-repeat: no-repeat;
     }
@@ -43,16 +61,27 @@
     .text-equity{
         color: #CD6D7D;
     }
+    .btn-equity2{
+      border-radius: 25px;
+      padding: 15px;
+      padding-left: 30px;
+      padding-right: 30px;
+      background-color: #CD6D7D;
+    }
 
     .equity-button{
       border-radius: 25px;
-      background-color: #CD6D7D;
+      background-color: #ed1d24;
       padding: 15px;
       padding-left: 30px;
       padding-right: 30px;
     }
 
     .equity-button:hover{
+      transition-duration: .2s;
+      background-color: rgb(25, 30, 72)
+    }
+    .btn-equity2:hover{
       transition-duration: .2s;
       background-color: rgb(25, 30, 72)
     }
