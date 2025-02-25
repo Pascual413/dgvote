@@ -14,10 +14,6 @@
         text-shadow: 3px 3px 3px black;
     }
 
-    .bg-equality{
-        background-color: #1358a2;
-    }
-
     #card-pad{
         margin: 10px;
     }
@@ -27,12 +23,16 @@
     }
 	
     .volunteer-container{
-        background-image:url("photos/background1.jpg");
+        background-image:url("photos/background2.JPG");
         background-attachment: fixed;
         background-repeat: no-repeat;
         background-size: cover;
     }
-
+    
+    .bg-equality{
+        background-color: #1358a2;
+    }
+    
     a{
       text-decoration: none;
       color: inherit;
