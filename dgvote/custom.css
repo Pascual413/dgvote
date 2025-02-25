@@ -10,7 +10,6 @@
     }
 
     #start-form{
-        background-image: url("photos/background1.jpg");
         color: white;
         text-shadow: 3px 3px 3px black;
     }
@@ -53,7 +52,7 @@
 
     #content-container{
         padding: 0%;
-		background-image:url("photos/background2.jpg");
+		background-image:url("photos/background1.jpg");
 		background-size: cover;
 		background-repeat: no-repeat;
     }
