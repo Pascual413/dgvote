@@ -21,6 +21,11 @@
     .margin-top-10{
         margin-top: 10px;
     }
+
+    .margin-center{
+      margin-left: auto;
+      margin-right: auto;
+    }
 	
     .volunteer-container{
         background-image:url("photos/background2.JPG");
@@ -46,7 +51,7 @@
 
       .right-side {
         float: right;
-        width: 25%;
+        width: 35%;
         padding: 1%;
       }
 
@@ -280,4 +285,10 @@
         height: 20vh;
       }
       
+      #headshot{
+        width: 75%;
+        margin-left: auto;
+        margin-right: auto;
+      }
+
     }
